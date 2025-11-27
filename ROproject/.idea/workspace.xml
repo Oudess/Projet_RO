@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="946f06f1-83fc-4d26-893f-794430f2ee04" name="Changes" comment="nova-Meryem Karoui" />
+    <list default="true" id="946f06f1-83fc-4d26-893f-794430f2ee04" name="Changes" comment="ordonnancement-Meryem Karoui" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="meryemk &lt;meryem.karoui@insat.ucar.tn&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
@@ -48,6 +53,7 @@
     "Python.finalcode.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Lenovo/Desktop/ROproject",
     "node.js.detected.package.eslint": "true",
@@ -81,6 +87,7 @@
       <workItem from="1764021161576" duration="10316000" />
       <workItem from="1764265637038" duration="193000" />
       <workItem from="1764265843141" duration="380000" />
+      <workItem from="1764266304846" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="nova-Meryem Karoui">
       <option name="closed" value="true" />
@@ -90,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764265726120</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ordonnancement-Meryem Karoui">
+      <option name="closed" value="true" />
+      <created>1764266567300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764266567300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +124,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nova-Meryem Karoui" />
-    <option name="LAST_COMMIT_MESSAGE" value="nova-Meryem Karoui" />
+    <MESSAGE value="Revert &quot;nova-Meryem Karoui&quot;&#10;&#10;This reverts commit b89d5143ba8ab27e57597b16c1c1280ddaa3b70f." />
+    <MESSAGE value="ordonnancement-Meryem Karoui" />
+    <option name="LAST_COMMIT_MESSAGE" value="ordonnancement-Meryem Karoui" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
