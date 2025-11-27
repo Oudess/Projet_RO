@@ -1,4 +1,0 @@
-cd C:\Users\Lenovo\Desktop\ROproject
-.\.venv\Scripts\Activate.ps1
-python code.py
-
